@@ -1,0 +1,46 @@
+Cara bikin Table :
+- bikin database
+- klik kanan di kolom Table
+- klik 'Table...'
+- lalu bikin table nya..
+- kalo mau set primary key : klik kanan value yg mau di set, lalu klik 'Set Primary Key'
+- Untuk execute pake shortcut CTRL + S
+
+===================================================================================================================================
+
+frmMain (Components) :
+- mlBack : //Navigate Back
+- mPanel : //Panel Container
+
+ucDashboard (Components) :
+- mtRPL : //Raises ucRPL when the user click it
+- mtAP : //Raises ucAP when the user click it
+- mtAK : //Raises ucAK when the user click it
+- mtPM : //Raises ucPM when the user click it
+
+ucRPL (Components) :
+- mtcRPL : //Manage and display to user a related collection of tabs that contain controls and components of RPL
+- mtc2019 : //Display to user a related collection of tabs that contain (RPL 7 angkatan tahun 2019) Data Grid and some button
+- mtc2018 : //Display to user a related collection of tabs that contain (RPL 6 angkatan tahun 2018) Data Grid and some button
+- mtc2017 : //Display to user a related collection of tabs that contain (RPL 5 angkatan tahun 2017) Data Grid and some button
+- mg2019 : //Display data and rows of (RPL 7 angkatan tahun 2019)
+- btnTambahRPL2019 : //raises frmTambahUbahRPL2019 when user click it
+- btnUbahRPL2019 : //raises frmTambahUbahRPL2019 when user click it
+
+ucTambah (Components) :
+- txtTambahNIS
+- txtTambahNIK
+- txtTambahNISN
+- txtTambahNama
+- txtTambahTLahir
+- mTambahTglLahir
+- mBTambahPria
+- mBTambahWanita
+- txtTambahIjazah
+- txtTambahAgama
+- txtTahunIjazah
+- txtTambahOrtuWanita
+- txtTambahOrtuPria
+- mTTambah
+- cBTambahKelas
+- cBTambahJurusan

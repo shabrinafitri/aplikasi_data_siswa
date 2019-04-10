@@ -1,0 +1,32 @@
+c:\users\ur\documents\visual studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\bin\Debug\DataSiswaSMK10.exe.config
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\bin\Debug\DataSiswaSMK10.exe
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\bin\Debug\DataSiswaSMK10.pdb
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\bin\Debug\MetroFramework.Design.dll
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\bin\Debug\MetroFramework.dll
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.Properties.Resources.resources
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.csproj.GenerateResource.Cache
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.exe
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.pdb
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.frmMain.resources
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.ucDashboard.resources
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.ucRPL.resources
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK10\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.frmTambahUbahRPL2019.resources
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK101\DataSiswaSMK10\bin\Debug\DataSiswaSMK10.exe.config
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK101\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.exe
+C:\Users\UR\Documents\Visual Studio 2015\Projects\DataSiswaSMK101\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.pdb
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\bin\Debug\DataSiswaSMK10.exe.config
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.exe
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.pdb
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\bin\Debug\DataSiswaSMK10.exe
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\bin\Debug\DataSiswaSMK10.pdb
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\bin\Debug\MetroFramework.Design.dll
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\bin\Debug\MetroFramework.dll
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.csprojResolveAssemblyReference.cache
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.frmMain.resources
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.frmTambahUbahRPL2019.resources
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.Properties.Resources.resources
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.ucDashboard.resources
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.ucRPL.resources
+C:\Users\UR\Videos\DataSiswaSMK101\DataSiswaSMK10\obj\Debug\DataSiswaSMK10.csproj.GenerateResource.Cache
